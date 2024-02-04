@@ -1,0 +1,8 @@
+.idea
+env/
+.venv/
+**__pycache__**
+**pretrained_models**
+whisper_models/
+models/
+chunk/
